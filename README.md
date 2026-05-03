@@ -1,5 +1,5 @@
-# SFS-repo
-a repo for an sfs texture pack I made
+# TEXTURES GALORE
+a texture pack for SFS i made
 
 Hi! Thanks for visiting this texture packs page!
 
